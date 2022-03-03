@@ -1,0 +1,22 @@
+name: scraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - python=3.7.2
+  - python-dateutil
+  - pytz=2018.7
+  - scikit-learn=0.20.3
+  - scipy=1.1.0
+  - xlrd=1.2.0
+  - openpyxl=2.5.12
+  - lxml=4.3.0
+  - html5lib=1.0.1
+  - beautifulsoup4=4.6.3
+  - jupyter=1.0.0
+  - selenium
+  - requests
+prefix: C:\Anaconda3\envs\scraper
